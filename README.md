@@ -33,9 +33,9 @@ The layout adapts to various screen sizes using media queries:
 - **Small screens (≤ 425px):** Simplified layout, optimized for mobile users.
 
 ## Demo Images
-![Desktop View](images/desktop-screenshot.png)
-![Tablet View](images/tablet-screenshot.png)
-![Mobile View](images/mobile-screenshot.png)
+![Desktop View]()
+![Tablet View]()
+![Mobile View]()
 
 ## Author
 Shrey Gupta
