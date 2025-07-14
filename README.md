@@ -32,10 +32,17 @@ The layout adapts to various screen sizes using media queries:
 - **Medium screens (≤ 768px):** Font sizes and image dimensions adjust for readability.
 - **Small screens (≤ 425px):** Simplified layout, optimized for mobile users.
 
-## Demo Images
+## Demo Images of Desktop view
 ![Desktop View](Desktop1.png)
-![Tablet View]()
-![Mobile View]()
+![Desktop View](Desktop2.png)
+
+## Demo Images of Tablet view
+![Tablet View](Tablet1.png)
+![Tablet View](Tablet2.png)
+
+## Demo Images of Mobile view
+![Mobile View](Mobile1.png)
+![Mobile View](Mobile2.png)
 
 ## Author
 Shrey Gupta
