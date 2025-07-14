@@ -33,7 +33,7 @@ The layout adapts to various screen sizes using media queries:
 - **Small screens (≤ 425px):** Simplified layout, optimized for mobile users.
 
 ## Demo Images
-![Desktop View]()
+![Desktop View](Desktop1.png)
 ![Tablet View]()
 ![Mobile View]()
 
